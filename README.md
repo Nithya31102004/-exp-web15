@@ -144,7 +144,8 @@ button:disabled {
 
 ## Output
 
-<img width="483" height="326" alt="image" src="https://github.com/user-attachments/assets/58a4b76c-e6d7-406e-a125-8fa12d28e7d5" />
+![Uploading image.png…]()
+
 
 
 ## Result
